@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Arianna\'sWorld</string>
+    <string name="arianna_intro">Hello everyone!, my name is Arianna and I love rats!</string>
+    <string name="button_hello">Say Hello!</string>
+</resources>
